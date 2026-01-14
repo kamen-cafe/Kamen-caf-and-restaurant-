@@ -1,0 +1,7 @@
+{
+  "name": "Kamen Cafe & Restaurant - Digital Menu",
+  "description": "A premium, professional digital menu for Kamen Cafe & Restaurant featuring a full category-based catalog, cart system, and order placement flow.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
